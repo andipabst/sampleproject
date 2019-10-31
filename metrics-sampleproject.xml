@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
     version="6.18.0" timestamp="2019-10-31T17:03:51.360">
-<file name="/home/andi/IdeaProjects/sampleproject/src/main/java/com/example/App.java">
+<file name="/var/data/workspace/sample-project/src/main/java/com/example/App.java">
 <violation beginline="9" endline="24" begincolumn="8" endcolumn="1" rule="MetricReporter" ruleset="Custom Rules" package="com.example" class="App" priority="5">
 ATFD:0.0
 </violation>
@@ -74,7 +74,7 @@ NCSS:2.0
 NPATH:2.0
 </violation>
 </file>
-<file name="/home/andi/IdeaProjects/sampleproject/src/main/java/com/example/DeprecatedClass.java">
+<file name="/var/data/workspace/sample-project/src/main/java/com/example/DeprecatedClass.java">
 <violation beginline="5" endline="11" begincolumn="8" endcolumn="1" rule="MetricReporter" ruleset="Custom Rules" package="com.example" class="DeprecatedClass" priority="5">
 ATFD:0.0
 </violation>
@@ -109,7 +109,7 @@ NCSS:2.0
 NPATH:1.0
 </violation>
 </file>
-<file name="/home/andi/IdeaProjects/sampleproject/src/main/java/com/example/HighComplexity.java">
+<file name="/var/data/workspace/sample-project/src/main/java/com/example/HighComplexity.java">
 <violation beginline="3" endline="37" begincolumn="8" endcolumn="1" rule="MetricReporter" ruleset="Custom Rules" package="com.example" class="HighComplexity" priority="5">
 ATFD:0.0
 </violation>
