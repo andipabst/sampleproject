@@ -18,7 +18,12 @@ public class App {
 
     public void emptyIf() {
         if (true) {
-            
+
         }
+        testMethod();
+    }
+
+    public String testMethod() {
+        return "This is a string!";
     }
 }
