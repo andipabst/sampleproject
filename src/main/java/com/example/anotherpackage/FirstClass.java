@@ -17,4 +17,8 @@ public class FirstClass {
         }
         return "very heavy";
     }
+    
+    void secondMethod() {
+        System.out.println("nothing to see here");
+    }
 }
