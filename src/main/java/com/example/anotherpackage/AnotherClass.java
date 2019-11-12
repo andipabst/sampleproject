@@ -6,7 +6,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-public class AnotherClass implements SomeInterface{
+public class AnotherClass implements SomeInterface {
 
     void veryImportantMethod() {
         Map<String, Integer> interestingMap = new HashMap<>();
@@ -19,5 +19,23 @@ public class AnotherClass implements SomeInterface{
     @Override
     public void doNothing() {
         //nothing to see here
+    }
+
+    public static class StaticInnerclass {
+        public void staticInnerClassMethod() {
+
+        }
+    }
+
+    public class InnerClass {
+        public void innerClassMethod() {
+
+        }
+    }
+
+    private class PrivateInnerClass {
+        public void privateInnerClassMethod() {
+            
+        }
     }
 }
